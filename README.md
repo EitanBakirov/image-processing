@@ -1,4 +1,4 @@
-# Image Processing Project
+# Image Analysis and Enhancement Using Python and OpenCV
 
 ## Overview
 
